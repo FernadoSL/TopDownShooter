@@ -42,6 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="GameObjects\Characters\BaseCharacter.cs" />
+    <Compile Include="GameObjects\Characters\PlayerCharacter.cs" />
     <Compile Include="GameObjects\GameObject.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Program.cs" />
